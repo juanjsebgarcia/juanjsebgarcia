@@ -1,16 +1,16 @@
 ### Hello, I'm Juan 👋.
 
-- 🇬🇧 I’m a full stack software engineer working in London.
+🇬🇧 I’m a full stack software engineer working in London.
 
-- 🐍 I’m a Python expert, with years of deep Django experience.
+🐍 I’m a Python expert, with years of deep Django experience.
 
-- 📐 I love building web and mobile applications. I have worked on full scale apps using both Angular and React.
+📐 I love building web and mobile applications. I have worked on full scale apps using both Angular and React.
 
-- 🕵️‍♂️ I have a specialist interest and MSc in computer security.
+🕵️‍♂️ I have a specialist interest and MSc in computer security.
 
-- 🐳 I use Docker, Kubernetes and Istio service mesh.
+🐳 I use Docker, Kubernetes and Istio service mesh.
 
-- 💬 I (try to) blog at https://juangarcia.co.uk
+💬 I (try to) blog at https://juangarcia.co.uk
 
 <!--
 **juanjsebgarcia/juanjsebgarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
