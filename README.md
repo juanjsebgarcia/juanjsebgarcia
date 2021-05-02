@@ -10,7 +10,7 @@
 
 🐳 I use Docker, Kubernetes and Istio service mesh.
 
-🔧 I love to tinker with hardware and electronics
+🔧 I love to tinker with hardware and electronics.
 
 💬 I (try to) blog at https://juangarcia.co.uk
 
